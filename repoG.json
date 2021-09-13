@@ -1,22 +1,22 @@
 {
 	"version": "1.0.1",
-	"change": ["chuibot","goibot","bans","listban"],
+	"change": ["listban"],
 	"modules": {
 		"commands": {
-			"chuibot": "2.0.0",
-			"listban": "3.1.2",
-			"poem": "3.1.2",
-			"random": "3.1.2",
-			"rank": "3.1.2",
-			"goibot": "1.1.0",
-			"alime": "1.1.2",
+			"chuibot": "1.0.0",
+			"listban": "1.0.0",
+			"poem": "1.0.0",
+			"random": "1.0.0",
+			"rank": "1.0.0",
+			"goibot": "1.0.0",
+			"alime": "1.0.0",
 			"allbox": "1.0.0",
-			"aothatday": "1.0.2",
-			"bans": "1.1.2",
-			"antiout": "1.1.2"
+			"aothatday": "1.0.0",
+			"bans": "1.0.0",
+			"antiout": "1.0.0"
 		},
 		"events": {
-			"antiout": "1.1.2"
+			"antiout": "1.0.0"
 		}
 	}
 }
